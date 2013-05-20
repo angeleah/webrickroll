@@ -1,3 +1,5 @@
 = Webrickroll
 
 This project rocks and uses MIT-LICENSE.
+
+Pretty early on, every time I heard webrick I thought "roll".  Finally, here it is.  Special thanks to Doug Bradbury for helping me get started and to Dayton Nolan for his googling skills.  Enjoy.  I know I will.  You've just been Webrickrolled.
