@@ -16,6 +16,7 @@ GETTING STARTED
   + Stop and restart the server
   + Allow your unsuspecting victim to navigate to any route within your app.
   + Enjoy the video and feel the sweet victory of pulling off a hilarious prank.
+  + Simply remove the gem from the Gemfile and re-bundle to remove Rickrolling.
   + Lock your computer the next time you go to the bathroom.
 
 
