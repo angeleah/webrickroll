@@ -7,14 +7,19 @@ When I first started using rails, every time webrick was mentioned or I booted i
 GETTING STARTED
 ---------------
 - To use:
-  + Add the gem to the Gemfile( gem "webrickroll") and bundle.
+  + Add the gem to the Gemfile( gem "webrickroll").
+  + Bundle
   + Stop and restart the server
-  + Navigate to any route within your app.
+  + Navigate to any route within your app in a browser window.
+  + You've just been webrickrolled
+  + Simply remove the gem from the Gemfile and re-bundle to remove Rickrolling.
+
 - To use discreetly(say, while your pair is in the restroom in order to surprise them upon return):
-  + Add the gem to the Gemfile( gem "webrickroll") and bundle.
-  + Do this in a separate tab and then close it to leave no suspicion.
+  + Add the gem to the Gemfile( gem "webrickroll").
+  + Bundle
+  + Do this in a separate terminal window and then close it to leave no suspicion.
   + Stop and restart the server
-  + Allow your unsuspecting victim to navigate to any route within your app. If you are using Safari you are in for a special surprise.
+  + Allow your unsuspecting victim to navigate to any route within your app in a browser window. If you are using Safari you are in for a special surprise.
   + Enjoy the video and feel the sweet victory of pulling off a hilarious prank.
   + Simply remove the gem from the Gemfile and re-bundle to remove Rickrolling.
   + Lock your computer the next time you go to the bathroom.
